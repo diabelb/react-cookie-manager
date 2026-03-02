@@ -38,7 +38,8 @@
   "style": "./dist/style.css",
   "files": [
     "dist/**",
-    "scripts/**"
+    "scripts/**",
+    "src/**"
   ],
   "exports": {
     ".": {

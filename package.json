@@ -49,7 +49,7 @@
     },
     "./style.css": "./dist/style.css",
     "./dist/*": "./dist/*",
-    "./src/*": "./src/*",
+    "./src/*": "./src/*"
   },
   "sideEffects": [
     "**/*.css"

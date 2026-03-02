@@ -48,7 +48,8 @@
       "require": "./dist/index.js"
     },
     "./style.css": "./dist/style.css",
-    "./dist/*": "./dist/*"
+    "./dist/*": "./dist/*",
+    "./src/*": "./src/*",
   },
   "sideEffects": [
     "**/*.css"
